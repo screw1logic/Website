@@ -1,0 +1,8 @@
+body {
+    background-color: rgba(46,47,42,255); text-align: center;
+
+}
+header {
+    background-image: url("/photos/header.png"); background-repeat:no-repeat; background-position: center center;
+    /*background-color: rgba(38,39,39,255); */
+}

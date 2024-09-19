@@ -1,0 +1,25 @@
+/*title*/
+h1 {
+    font-family: Arial, sans-serif; color: rgba(250,149,71,255);
+  }
+
+/*the [] i think*/
+  h2 {
+    font-family: Arial, sans-serif; color: rgba(250,149,71,255);
+  }
+/*the [] i think*/
+h3 {
+  font-family:  Arial, Helvetica, sans-serif; color: rgba(115,111,96,255);
+}
+/*text*/
+h4 {
+  font-family: Arial, Helvetica, sans-serif; color: rgba(115,111,96,255);
+}
+/*links*/
+a {
+  font-family: Arial, Helvetica, sans-serif; color: rgba(115,111,96,255);
+}
+/*to fix ascii art on phone not being centered*/
+pre {
+    text-align: center; color: rgba(230,149,71,255)
+}
