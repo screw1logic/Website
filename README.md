@@ -14,4 +14,3 @@ Added some more images and added some stuff to the pc section
 =======
 ## 20/9/24
 Images load faster now and added some other stuff.
->>>>>>> f6fe782231c3d8de38c12b1652bc5927fa88e5f7
