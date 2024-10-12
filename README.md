@@ -14,3 +14,5 @@ Added some more images and added some stuff to the pc section
 Images load faster now and added some other stuff.
 ## 5/10/24
 Added updated some stuff and added some more photos. Html and css are slowly making me insane. For some reason using Live Preview(vscode extension) the title is moved to the left in photos. On firefox it isn't. I have no idea why this is happening but it's making my undiagnosed ocd go mad.
+## 12/10/24
+Made website look good and remove pc.
