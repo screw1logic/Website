@@ -16,3 +16,5 @@ Images load faster now and added some other stuff.
 Added updated some stuff and added some more photos. Html and css are slowly making me insane. For some reason using Live Preview(vscode extension) the title is moved to the left in photos. On firefox it isn't. I have no idea why this is happening but it's making my undiagnosed ocd go mad.
 ## 12/10/24
 Made website look good and remove pc.
+## 1/11/24
+I just updated some stuff, i'm still figuring out what to add.
