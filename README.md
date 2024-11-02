@@ -18,3 +18,5 @@ Added updated some stuff and added some more photos. Html and css are slowly mak
 Made website look good and remove pc.
 ## 1/11/24
 I just updated some stuff, i'm still figuring out what to add.
+## 1/11/24 9:30
+I ADDED CAT IN FUN
