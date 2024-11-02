@@ -36,6 +36,8 @@ pre {
 body {
   background-color: rgba(46,47,42,255);
   text-align: center;
+  padding:0;
+  margin:0;
 }
 /* no I didn't steal this from a video */
 .links li a {
