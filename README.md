@@ -20,3 +20,6 @@ Made website look good and remove pc.
 I just updated some stuff, i'm still figuring out what to add.
 ## 1/11/24 9:30
 I ADDED CAT IN FUN
+
+## 24/11/24
+I removed "Fun" and made the website look cool
