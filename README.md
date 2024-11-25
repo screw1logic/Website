@@ -22,4 +22,4 @@ I just updated some stuff, i'm still figuring out what to add.
 I ADDED CAT IN FUN
 
 ## 24/11/24
-I removed "Fun" and made the website look cool
+Made the website look cool
