@@ -1,61 +1,68 @@
 /* Text */
 
-/*title*/
 h1 {
-    font-family: Arial, sans-serif; color: rgba(250,149,71,255);
-    text-align: center;
+    font-family: Arial, sans-serif; color: #dbe6e9;
   }
-
-/*the [] i think*/
   h2 {
-    font-family: Arial, sans-serif; color: rgba(250,149,71,255);
-    text-align: center;
+    font-family: Arial, sans-serif; color: #dbe6e9;
   }
-/*the [] i think*/
-h3 {
-  font-family:  Arial, Helvetica, sans-serif; color: rgba(115,111,96,255);
-  text-align: right;
-}
-/*text*/
 h4 {
-  font-family: Arial, Helvetica, sans-serif; color: rgba(115,111,96,255);
-  text-align: center;
+  font-family: Arial, Helvetica, sans-serif; color: rgb(235, 229, 206)
 }
 /*links*/
 a {
-  font-family: Arial, Helvetica, sans-serif; color: rgba(115,111,96,255);
+  font-family: Arial, Helvetica, sans-serif; color: #dbe6e9;
   font-size: large;
 }
-/*ascii art*/
-pre {
-    text-align: center; color: rgba(230,149,71,255)
+
+/* header thing */
+* {
+  box-sizing: border-box;
 }
 
-/* Background and stuff like that */
+.column {
+  float: left;
+  width: 70%;
+  padding: 10px;
+  height: 150px;
+  border: 1px solid #ebe5ce ;
+}
+
+.column2 {
+  float: right;
+  width: 30%;
+  padding: 10px;
+  height: 150px;
+  border: 1px solid #ebe5ce ;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
 
 body {
-  background-color: rgba(46,47,42,255);
+  max-width: 900px;
+  margin-left: auto;
+  margin-right: auto;
+  background-image: url(/gifs/200w.gif);
+  border: 1px solid #ebe5ce ;
   text-align: center;
-  padding:0;
-  margin:0;
 }
+
 /* no I didn't steal this from a video */
 .links li a {
   transition: all 0.3s ease 0s;
 }
+
 .links li a:hover {
-  color: #fa9547;
+  color: #8f8e8a;
 }
-.links {
-  list-style: none;
-}
+
 .links li{
   display: inline-block
 }
-header {
-  background-color: rgb(38, 39, 39, 255);
-  justify-content: space-between;
-  align-items: center;
-  padding: 30px 10%;
-  display: flex
-}
+
