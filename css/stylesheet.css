@@ -1,11 +1,15 @@
 /* Text */
 
+
+/* Tittle */
 h1 {
     font-family: Arial, sans-serif; color: #dbe6e9;
   }
-  h2 {
+/* The title in the body */
+h2 {
     font-family: Arial, sans-serif; color: #dbe6e9;
   }
+/* Main text */
 h4 {
   font-family: Arial, Helvetica, sans-serif; color: rgb(235, 229, 206)
 }
@@ -26,7 +30,9 @@ a {
   width: 70%;
   padding: 10px;
   height: 150px;
-  border: 1px solid #ebe5ce ;
+  border-right: 1px solid #ebe5ce;
+  border-top: 1px solid #ebe5ce;
+  border-left: 1px solid #ebe5ce;
 }
 
 .column2 {
@@ -34,8 +40,17 @@ a {
   width: 30%;
   padding: 10px;
   height: 150px;
+  border-top: 1px solid #ebe5ce;
+  border-right: 1px solid #ebe5ce;
+}
+
+.column3 {
+  float: right;
+  width: 100%;
+  padding: 10px;
   border: 1px solid #ebe5ce ;
 }
+
 
 /* Clear floats after the columns */
 .row:after {
@@ -51,9 +66,8 @@ body {
   margin-left: auto;
   margin-right: auto;
   background-image: url(/gifs/200w.gif);
-  border: 1px solid #ebe5ce ;
   text-align: center;
-  
+
 }
 
 /* no I didn't steal this from a video */

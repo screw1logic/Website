@@ -20,6 +20,7 @@ Made website look good and remove pc.
 I just updated some stuff, i'm still figuring out what to add.
 ## 1/11/24 9:30
 I ADDED CAT IN FUN
-
 ## 24/11/24
 Made the website look cool
+## 26/11/24
+Added some stuff to Albums and Eps and Photos
