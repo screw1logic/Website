@@ -1,0 +1,47 @@
+/* TITTLES */
+h1, h2 {
+    color: #f2ab37;
+    
+}
+
+/* NORMAL TEXT */
+h4 {
+    color: #faf5d8 ;
+}
+
+/* LINK */
+a {
+    color: #faf5d8;
+    font-size: 20px;
+    text-decoration: none;
+    transition: all 0.3s ease 0s;
+    width: 125px;
+    padding: 4px;
+    display: inline-block;
+}
+
+a:hover {
+    color: #8f8e8a;
+    background: #131313;
+}
+
+
+hr {
+    border: 1px solid #cd5f2a;
+    width: 600px;
+}
+
+img {
+    border: 3px solid #d8ae8b;
+    border-radius: 5px;
+}
+
+body {
+    background-color: #21181b ;
+    text-align: center;
+    padding: 0px;
+    width: 900px;
+    margin: 0 auto;
+    align-items: flex-end;
+    padding-left: calc(100vw - 100%);
+}
