@@ -11,7 +11,7 @@ h4 {
 
 /* LINK */
 a {
-    color: #faf5d8;
+    color: #ffd4a3 ;
     font-size: 20px;
     text-decoration: none;
     transition: all 0.3s ease 0s;
@@ -37,7 +37,7 @@ img {
 }
 
 body {
-    background-color: #21181b ;
+    background-color: #170e19;
     text-align: center;
     padding: 0px;
     width: 900px;
