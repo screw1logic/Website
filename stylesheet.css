@@ -1,17 +1,17 @@
 /* TITTLES */
 h1, h2 {
-    color: #f2ab37;
+    color: #f7a357 ;
     
 }
 
 /* NORMAL TEXT */
 h4 {
-    color: #faf5d8 ;
+    color: #fae8bc;
 }
 
 /* LINK */
 a {
-    color: #ffd4a3 ;
+    color: #f9b18e;
     font-size: 20px;
     text-decoration: none;
     transition: all 0.3s ease 0s;
@@ -27,17 +27,17 @@ a:hover {
 
 
 hr {
-    border: 1px solid #cd5f2a;
+    border: 1px solid #9d5550 ;
     width: 600px;
 }
 
 img {
-    border: 3px solid #d8ae8b;
+    border: 3px solid #dcac70 ;
     border-radius: 5px;
 }
 
 body {
-    background-color: #170e19;
+    background-color: #291d22 ;
     text-align: center;
     padding: 0px;
     width: 900px;
