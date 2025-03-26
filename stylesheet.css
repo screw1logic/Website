@@ -1,8 +1,13 @@
 /* TITTLES */
 h1, h2 {
-    color: #f7a357 ;
+    color: #f7a357;
     
 }
+
+.tittle {
+    margin-top: 0px;
+}
+
 
 /* NORMAL TEXT */
 h4 {
@@ -32,16 +37,21 @@ hr {
 }
 
 img {
-    border: 3px solid #dcac70 ;
+    border: 3px solid #dcac70;
     border-radius: 5px;
 }
 
+html {
+    background-image: url("/images/star.gif");
+}
+
 body {
-    background-color: #291d22 ;
+    background-color: #171715;
     text-align: center;
     padding: 0px;
-    width: 900px;
     margin: 0 auto;
+    max-width: 900px;
     align-items: flex-end;
     padding-left: calc(100vw - 100%);
+    box-shadow: 8px -2px 16px rgba(0,0,0,0.3),-8px 0px 16px rgba(0,0,0,0.3);
 }
