@@ -1,33 +1,35 @@
 /* TITTLES */
 h1, h2 {
     color: #f7a357;
-    
+    font-family: Helvetica;
 }
 
 .tittle {
     margin-top: 0px;
 }
 
-
 /* NORMAL TEXT */
 h4 {
     color: #fae8bc;
+    padding: 0px 20px 0px 20px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 /* LINK */
 a {
     color: #f9b18e;
+    background-color:#131313;
     font-size: 20px;
     text-decoration: none;
     transition: all 0.3s ease 0s;
     width: 125px;
     padding: 4px;
     display: inline-block;
+    font-family: Sans-serif;
 }
 
 a:hover {
     color: #8f8e8a;
-    background: #131313;
 }
 
 
